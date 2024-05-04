@@ -1,2 +1,2 @@
 # smart-contracts-solidity
-Studies using on Blockchain through Solidity official docs 
+Studies on Blockchain Smart Contracts through Solidity official docs 
